@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VYBE</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_search">Search</string>
+    <string name="tab_library">Library</string>
+    <string name="tab_local">Device Storage</string>
+    <string name="tab_profile">Profile</string>
+    <string name="ai_vibe_match">VYBE AI Match</string>
+</resources>
